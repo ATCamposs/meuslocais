@@ -1,0 +1,5 @@
+{
+    "require": {
+        "jarouche/viacep": "^1.2"
+    }
+}
